@@ -1,0 +1,1 @@
+[{"id":"c4a32193.97595","type":"function","z":"eec8a3b2.93574","name":"Clear to 0","func":"msg.payload=0;\nreturn msg;","outputs":1,"noerr":0,"x":340.18752670288086,"y":417.23615074157715,"wires":[["c36ed79.7a95628"]]}]

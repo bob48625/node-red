@@ -1,0 +1,1 @@
+[{"id":"babe39ac.d69018","type":"function","z":"929464b5.d27468","name":"Padload","func":"msg.headers={\n    deviceKey: \"0YVuU09DmdM0Tjiq\"\n};\nmsg.payload=\"Temperature,,253.3\"\nreturn msg;","outputs":1,"noerr":0,"x":265.1840362548828,"y":226.5729217529297,"wires":[["30094cbe.37f5d4"]]}]
